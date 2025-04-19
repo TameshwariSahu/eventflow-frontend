@@ -24,6 +24,6 @@ This is a simplified React frontend for the **EventFlow Full Stack Developer Ass
 
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/eventflow-frontend.git
+git clone https://github.com/TameshwariSahu/eventflow-frontend.git
 cd eventflow-frontend
  (Initial commit with login and dashboard)
