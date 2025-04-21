@@ -9,6 +9,17 @@
 All actions like registration/unregistration are tracked using an **audit log** for accountability.
 
 ---
+## Frontend Repository
+
+The frontend of this project is built using React and can be found at:
+
+[Frontend GitHub Repository](https://github.com/TameshwariSahu/eventflow-frontend)
+
+## Backend Repository
+
+The backend of this project is built using Node.js, Express, and MySQL. It can be found at:
+
+[Backend GitHub Repository](https://github.com/TameshwariSahu/eventflow-backend)
 
 ##  Roles in EventFlow
 
